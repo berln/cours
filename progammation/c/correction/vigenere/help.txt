@@ -1,0 +1,34 @@
+code/decode
+
+SYNOPSIS
+
+code [options] [fichier...]
+Options : [-sh] [--help] [--skip] [-a alphabet] [-k clé] [--alphabet=alphabet] [--key=clé]
+
+decode [options] [fichier...]
+Options : [-sh] [--help] [--skip] [-a alphabet] [-k clé] [--alphabet=alphabet] [--key=clé]
+
+DESCRIPTION
+
+Le programme code encode un texte en utilisant le code Vigenère.
+Lorsqu'aucun fichier n'est fourni, l'encodage se fait depuis l'entrée standard vers la sortie standard, ligne par ligne.
+Lorsqu'un seul fichier est fourni, l'encodage se fait depuis le fichier vers la sortie standard.
+Lorsque deux fichiers sont fournis, l'encodage se fait depuis le premier vers le deuxième.
+L'option -s (--skip), lorsqu'elle est présente, indique que les lettres du texte à encoder non présentes dans l'alphabet sont supprimées. Lorsqu'elle est absente, ces lettres restent en clair dans le message codé.
+Les options -a (--alphabet) et -k (--key) permettent de spécifier les fichiers contenant respectivement l'alphabet et la clé. Si elles sont absentes, l'alphabet est l'alphabet latin non accentué composé uniquement de lettres minuscules (abcdefghijklmnopqrstuvwxyz) et la clé est notaverysmartkey.
+L'option -h (--help) affiche ce manuel.
+
+
+Le programme decode decode un texte en utilisant le code Vigenère.
+Lorsqu'aucun fichier n'est fourni, le décodage se fait depuis l'entrée standard vers la sortie standard, ligne par ligne.
+Lorsqu'un seul fichier est fourni, le décodage se fait depuis le fichier vers la sortie standard.
+Lorsque deux fichiers sont fournis, l'encodage se fait depuis le premier vers le deuxième.
+L'option -s (--skip), lorsqu'elle est présente, indique que les lettres du texte à décoder non présentes dans l'alphabet sont supprimées. Lorsqu'elle est absente, ces lettres sont restituées telles quelles dans le message décodé.
+Les options -a (--alphabet) et -k (--key) permettent de spécifier les fichiers contenant respectivement l'alphabet et la clé. Si elles sont absentes, l'alphabet est l'alphabet latin non accentué composé uniquement de lettres minuscules (abcdefghijklmnopqrstuvwxyz) et la clé est notaverysmartkey
+L'option -h (--help) affiche ce manuel.
+
+
+WARNING
+
+Les textes encodés avec l'option -s ne peuvent etre correctement decodés qu'avec l'option -s de decode.
+

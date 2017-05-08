@@ -1,0 +1,64 @@
+commuication entre deux programes sous linux
+tube, signeau, fichier ( sur le meme pc)
+
+ou socket (inet ou xeb)
+
+type datagramme sock_dgram
+type flux sock_stream
+
+af_unix meme machine
+af_inet sur tcp udpb
+
+int s;
+s=socket (af_unix,sock_dgram,0);
+if(s==-1)
+  printf("prob");
+
+
+int s;
+s=socket (af_inet,sock_dgram,0);
+if(s==-1)
+  printf("prob");
+
+int bind(
+  int descripteur,
+  struct sockaddr *ptr_address
+  int longueur_adresse
+)
+
+
+struct sokettaddr.in adr,
+s2=socket(af.inet,sock.dgram,0);
+ad2.sin_family=AF.inet
+ad2.sin_port=6301
+ad2.sin_addr.s_addr=inaddr_an1
+s1=bind(s1,(sock.addr*)&ad2, sizeof
+
+
+# envoi reception
+machine a
+int msg
+struct sockaddr_in ad.struct ????;
+s1=socket(...)
+configurer l'@ local
+
+bind(s1, &ad.socket,....)
+recvfrom(s1,&msg,sizeof(int),,&ad_emet,&
+msg++
+
+
+machine B
+
+int msg=10
+s2=socket
+.
+.
+.
+bind
+
+construire l'e du dest
+hp=gethostname
+memcpy(add_dest hp -> 4)
+
+sendto(s2,&msg,sizeof(msg),,&ad_dest,sizeof(ad.dest));
+recvfiom(s2,&______,&ad_emet,&taille);avec

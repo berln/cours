@@ -1,0 +1,4 @@
+Unable to connect to dbus
+
+(sublime_text:3952): GLib-CRITICAL **: Source ID 1909 was not found when attempting to remove it
+sublime_text: Fatal IO error 11 (Resource temporarily unavailable) on X server localhost:10.0.

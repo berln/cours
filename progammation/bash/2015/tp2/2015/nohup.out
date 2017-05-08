@@ -1,0 +1,1600 @@
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1024 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1028 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1090 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1102 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1116 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 47337 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 47355 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 47365 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 47428 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 47434 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 48024 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 48030 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 48373 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 49253 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 50244 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 51533 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 51606 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 57809 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 57894 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 57960 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 77229 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 79957 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 79961 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 79979 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 80020 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 80075 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 80141 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 81911 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 82658 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 82679 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 83793 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 83797 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 83867 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 83892 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 83933 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 84618 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 107257 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 193266 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 198320 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 199483 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 201852 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 201856 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 205292 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 206767 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 206857 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 206901 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 206921 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 210018 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 226741 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 228680 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 231785 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 235674 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 237617 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 241499 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 242665 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 256279 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 260942 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 264045 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 264814 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 267146 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 278434 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 290526 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 292455 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 292459 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 292481 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 292562 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 293287 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 293291 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 293300 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 293308 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 293317 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 293325 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294607 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294612 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294620 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294624 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294632 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294638 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294646 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294652 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294661 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294667 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294673 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294679 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294686 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294692 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294700 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294706 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294713 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294718 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294724 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294729 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294737 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294742 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294748 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294752 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294758 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294762 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294768 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294772 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294778 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294782 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294788 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294792 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294798 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294802 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294808 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294812 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294818 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294822 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294828 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294832 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294838 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294842 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294848 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294852 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294858 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294862 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294868 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294872 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294878 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294882 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294888 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294892 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294898 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294903 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294909 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294913 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294919 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294923 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294929 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294933 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294939 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294943 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294949 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294953 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294959 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294963 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294969 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294973 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294979 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294983 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294989 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294993 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 294999 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295003 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295009 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295013 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295019 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295023 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295029 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295033 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295039 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295043 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295049 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295053 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295059 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295063 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295070 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295074 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295080 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295084 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295090 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295094 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295100 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295104 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295110 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295114 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295120 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295124 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295130 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295134 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295140 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295144 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295150 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295154 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295160 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295164 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295170 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295174 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295180 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295184 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295190 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295194 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295200 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295204 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295210 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295214 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295220 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295224 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295230 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295234 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295240 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295244 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295250 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295254 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295260 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295264 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295270 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295274 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295281 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295285 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295291 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295295 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295301 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295305 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295311 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295315 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295322 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295328 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295336 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295342 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295350 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295356 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295364 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295371 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295377 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295381 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295387 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295391 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295397 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295401 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295407 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295411 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295417 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295421 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295427 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295431 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295437 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295441 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295447 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295451 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295457 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295461 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295467 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295471 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295477 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295481 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295487 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295493 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295499 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295503 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295509 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295513 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295519 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295523 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295529 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295533 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295539 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295543 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295549 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295553 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295559 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295563 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295569 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295573 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295579 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295583 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295589 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295593 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295599 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295603 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295611 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295615 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 295621 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 314173 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 316504 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 320381 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 321157 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 328149 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 338258 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 340198 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 343614 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 343618 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 401624 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 449314 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 450588 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 452744 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 453007 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 480896 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 487736 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 492162 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 492456 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 492498 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 492899 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 493103 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 525915 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 526042 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 528245 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 529062 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 534006 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 548014 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 553457 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 554620 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 561617 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 568225 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 569385 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 577166 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 578326 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 580265 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 584153 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 593092 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 598538 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 599696 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 600863 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 602802 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 605134 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 605903 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 617562 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 622232 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 624172 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 625331 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 626498 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 626881 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 628821 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 630758 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 631526 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 633466 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 647859 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 653684 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 657185 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 663012 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 664175 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 670004 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 671942 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 676998 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 678938 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 683604 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 684771 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 694108 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 701120 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 705394 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 707329 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 711997 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 715104 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 729495 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 740794 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 746643 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 753662 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 758340 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 760286 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 780191 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 782921 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 784865 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 787201 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 789529 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 791866 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 795625 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 806966 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 809693 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 812421 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 818272 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 818655 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 820604 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 835434 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 837770 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 841670 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 843608 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 844770 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 847879 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 849867 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 851986 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 857069 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 859098 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 861816 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 863752 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 866866 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 872307 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 874637 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 877741 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 879683 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 880847 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 882008 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 883946 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 887049 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 895989 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 904939 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 908431 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 909594 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 921264 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 926317 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 930202 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 937199 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 941867 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 948091 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 951200 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 955472 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 960141 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 966358 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 974916 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 986196 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 988131 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 990463 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 999007 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1006399 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1013787 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1020784 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1023504 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1026994 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1028934 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1031265 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1032034 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1034365 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1035529 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1038247 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1053418 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1056135 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1058073 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1060008 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1063117 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1064275 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1066606 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1068157 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1070486 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1073984 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1080988 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1086043 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1088377 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1096276 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1100943 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1107400 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1107406 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1108282 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1108288 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1108915 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1109332 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1109556 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1109560 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1110191 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1110223 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1116671 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1116732 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1116738 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1116887 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1116920 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117081 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117107 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117155 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117169 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117177 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117183 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117195 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117209 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117221 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117235 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117247 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117262 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1117274 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1138819 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1139264 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1139328 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1145390 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1145769 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1145793 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1150782 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1152567 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1152687 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1154543 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1157790 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1158960 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1159730 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1160545 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1161049 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1162639 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1165756 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1168654 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1168658 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1168668 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1168672 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1169372 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1173206 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1181531 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1181539 was not found when attempting to remove it
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1182000 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1201286 was not found when attempting to remove it
+
+(sublime_text:20941): Gdk-WARNING **: /build/gtk+2.0-KsZKkB/gtk+2.0-2.24.30/gdk/x11/gdkdrawable-x11.c:952 drawable is not a pixmap or window
+
+(sublime_text:20941): GLib-CRITICAL **: Source ID 1202403 was not found when attempting to remove it

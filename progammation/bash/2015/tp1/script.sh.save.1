@@ -1,0 +1,10 @@
+
+local mot=$1
+[ "${mot#${mot%?}}" = "${mot%${mot#?}}" ] || { echo "Pas bon"; return 1; }
+
+mot=${mot%?}
+mot=${mot#?}
+
+[ "$mot" ] || { echo "B
+
+

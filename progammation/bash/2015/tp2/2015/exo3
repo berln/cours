@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+read line
+while [ "$line" ]; do
+    echo " ${line##*/}" / "${line%/*}"
+    read line
+done
+

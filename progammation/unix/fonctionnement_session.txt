@@ -1,0 +1,14 @@
+le systeme ouvre une tache nomé init qui ouvre à son tour toutes les autres taches.
+
+pour obtenir le pid d'un programme on peut utiliser la fonction int get-pid()
+pour obtenir le pid du pere on peut utiliser int get-ppid()
+
+lors d'un fork le pere et le fils partage le meme code et le fils reçoi une copie des données.
+
+code de retour
+-1 le code est planter
+0 je suis dans le fils
+>1 je suis dans le pere
+
+apres le fork on peut utiliser une sleep 1 pour endormir le pere pendant 1s sinon il pourait mourir avent sont fils,
+le fils serait alors adopter par init

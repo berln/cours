@@ -1,0 +1,4 @@
+Ds les machines 32 bits, sizeof(int) vaut 4
+Le status du wait en Hexa fait par contre 4 chiffres car seuls les 16 bits (de droite je pense) sont utilisés
+ainsi une mort naturelle evec exit(2) affiche 200, avec exit (3) affiche 300
+une mort par kill -9 affiche 9

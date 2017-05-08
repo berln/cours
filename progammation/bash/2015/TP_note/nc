@@ -1,0 +1,2 @@
+nc localhost 8080
+ nc  -l -p 8080

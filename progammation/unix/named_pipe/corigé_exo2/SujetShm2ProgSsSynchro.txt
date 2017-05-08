@@ -1,0 +1,8 @@
+3 programmes
+1) Création d'une SHM de cle utilisateur 101
+2) Ecriture
+    saisie d'un texte de moins de 100 caractères au clavier dans un buffer de 100 octets
+    ecriture du buffer de 100 octets dans la SHM
+   Paramètre : shmid de la SHM (code de retour du shmget de la création)
+3) Lecture de 100 octets dans la SHM et affichage du texte saisi en 2)
+   Paramètre : shmid de la SHM (code de retour du shmget de la création)

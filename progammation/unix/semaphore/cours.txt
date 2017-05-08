@@ -1,0 +1,3 @@
+les semaphore peuvent etre representé comme une salle de cinema.
+la fille d'atente possaide un compteur quand ce compteur est null la salle est plainne, lorsequ'il est negative, ça valeur absolut represente la longueur de la fille d'atante.
+lorsequ'il est positif il represent le nombre de plaçes disponnibles

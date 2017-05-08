@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462828606 source:c:\users\asus\desktop\tetris\temp\imagefond\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+

@@ -1,0 +1,4 @@
+Trois programmes
+1) Creation du tube nomme dans /tmp par mkfifo
+2) Ecriture de 50 octets dans le tube nomme
+3) Lecture des 50 octets dans le tube nomme

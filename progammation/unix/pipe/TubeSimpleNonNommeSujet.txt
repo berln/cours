@@ -1,0 +1,4 @@
+Un seul programme, une seule tâche
+Creer un tube non nommé
+Ecrire 200 octets dans un tube non nommé en 8 write de 25 octets
+RElire les 200 octets dans le tube non nommé en 2 read de 100 octets  

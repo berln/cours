@@ -1,0 +1,11 @@
+#!/bin/sh
+#
+read line
+while [ "$line" ]; do
+	echo "$line-1"
+	if ligne pess ${line##*/}" / "${line%/*}
+	echo " ${line##*/}" / "${line%/*}"
+	line1=${line##*/}
+	read line
+done
+
