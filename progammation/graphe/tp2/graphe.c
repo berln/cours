@@ -65,15 +65,10 @@ void AfficheMatIncid(MatIncid A){
 }
 
 void SuprimmerMatIncid(MatIncid A){
-  int i,J;
-  for (int i = 0; i < A->nb_sommets ++i)
-  {
-    for (int j = 0; j < A->nb_aretes; ++j)
-    {
-      free(A->Matrice[i][j]);
-    }
-    free(A->MatIncid[i]);
-  }
+  int i;
+  for (i = 0; i < A->nb_sommets; ++i)
+    free(A->Matrice[i]);
+  free(A->Matrice);
   free(A);
 }
 
@@ -215,7 +210,8 @@ int main(int argc, char ** argv){
    printf("TEST 1 affiche vide 1\n");
    mat1 = MatIncidVide(3,7);
 AfficheMatIncid(mat1);
-   printf("\n");
+   printf("free_\n");
+   SuprimmerMatIncid(mat1);
 /*
    printf("TEST 2 lire fichier \n");
 mat2=LireGraphe("graphe1.txt");
