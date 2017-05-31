@@ -221,9 +221,10 @@ int main(int argc, char **argv) {
   s = Trier(s, 8);
   Affiche_Sommets(s, 8);
 
-  printf("compfotementconnex %d", CompFortementConnexes(mat2, B));
-
-  printf("\n");
+  printf("compfotementconnex %d\n", CompFortementConnexes(mat2, B));
+  
+  for (int i=0; i<8;i++)
+    printf("le sommet %d appartien à la composante %d\n",i,B[i]);
 
   return 0;
 }
