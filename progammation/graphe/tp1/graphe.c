@@ -87,19 +87,19 @@ MatAdja Transpose(MatAdja A){
 
    int n,i,j;
    n = A->nb_sommets;
-   MatAdja tmp = MatAdjaVide(n);
+   MatAdja temp = MatAdjaVide(n);
 
    for(i=0;i<n;i++){
 
       for(j=0;j<n;j++){
        
-        tmp->Matrice[i][j] = A->Matrice[j][i];     
+        temp->Matrice[i][j] = A->Matrice[j][i];     
  
       }
 
    }
 
-   return  tmp;
+   return  temp;
 }
 
 void profondeur(MatAdja A, Sommet * S, int * date, int numSommet){
@@ -159,36 +159,66 @@ int i;
 	}
 }
 
-/*
 Sommet *Trier(Sommet *S,int n){
 
-
-int i,j,current_value;
-current_value=0;
-int *tmp1;
-
-    for(i=0;i<n;i++)
-	{
-	
-	current_value=S[i].date_fin;
-        for(j=0;j<n;j++){
-
-	     if(S[j].date_fin>=S[current_value].date_fin)
-		current_value=j;
-	}
-	tmp1=S[i];
-	S[i]=S[current_value];
-	S[current_value]=*tmp1;
-
-//printf("%d\n",tmp1->date_fin);
-	}
-
-return tmp;
+  int i,j;
+   Sommet STemp;
+  for(i=0;i<n;i++){
+    for(j=0;j<n;j++){
+      if(S[i].date_fin>S[j].date_fin){
+      STemp=S[j];
+      S[j]=S[i];
+      S[i]=STemp;   
+      }
+    }
+  }
+  return S;
 }
 
-*/
+Sommet * Parcours_Profondeur_Trans(MatAdja A, Sommet *S){
+ 
+     Sommet * temp = (Sommet*)malloc(A->nb_sommets*sizeof(Sommet));
+      
+     int i,j=0;
+     int date= 0;
+ 
+     for(i=0;i<A->nb_sommets;i++){
+           temp[i].numero=S[i].numero;
+           temp[i].date_debut=0;
+           temp[i].date_fin=0;
+           temp[i].CompConnexe=0;
+     }
+ 
+     for(i=0;i<A->nb_sommets;i++){
+ 
+           if(temp[i].date_debut==0){
+                profondeur(Transpose(A), temp, &date, temp[i].numero);
+               j++;
+           }
+           S[i].CompConnexe=j;
+     }
+ 
+ 
+     return S;
+}
+
+
+int CompFortementConnexes(MatAdja A, int * B){ 
+     int i,nbgroup=0;
+     Sommet *S;
+     S = Parcours_Pronfondeur(A); 
+     S = Parcours_Profondeur_Trans(A,Trier(S,A->nb_sommets)); 
+     for(i=0;i<A->nb_sommets;i++){ 
+           B[S[i].numero]=S[i].CompConnexe;    
+           if(nbgroup < S[i].CompConnexe){
+              nbgroup =S[i].CompConnexe;
+           }
+     }
+     return nbgroup;
+}
 
 int main(int argc, char ** argv){
+  int B[8];
    
    MatAdja mat1,mat2,mat3;
 
@@ -207,16 +237,15 @@ AfficheMatAdja(mat3);
 
 printf("TEST 4 affiche sommet graphe ^ \n");
 Sommet *s;
-int date=0;
 
 s=Parcours_Pronfondeur(mat2);
 Affiche_Sommets(s,8);
 
-/*trie marche pas le probleme est qu'il faut verifier que la valeur  lue n'est pas déjà dans le sommet final  
-printf("trie ^ \n");
+printf("trie des sommets\n");
 s=Trier(s,8);
 Affiche_Sommets(s,8);
-*/
+
+printf("compfotementconnex %d",CompFortementConnexes(mat2,B));
 
    printf("\n");
 
