@@ -20,7 +20,7 @@ ligne * recherche_1 ( char ** nom ) {
   FILE *f;
   int t;
 
-  entree.nom = (char *)buf; entree.tel = 0;
+  entree.nom = (char *, CLIENT *)buf; entree.tel = 0;
   if ((f = fopen (NOM_FICHIER, "r")) == NULL) {perror ("svc: fopen ");}
   else {
     while ( fscanf(f,"%s%d", buf, &t ) != EOF ) {
@@ -40,7 +40,7 @@ ligne * recherche_1 ( char ** nom ) {
 
 static int status_ajout;
 
-int * ajout_1 ( ligne * a_ajouter ) {
+int * ajout_1 ( ligne * a_ajouter , CLIENT *) {
   FILE *f;
   ligne *test;
 
@@ -57,30 +57,8 @@ int * ajout_1 ( ligne * a_ajouter ) {
 
 /* Affiche une chaine de caractere... */
 
-void * affiche_1 ( char ** s ) {
+void * affiche_1 ( char ** s, CLIENT * ) {
   printf ( "%s\n", *s ); fflush (stdout);
   return ((void *)1);
-}
-
-/* liste les lignes */
-liste * recherche_1 () {
-  FILE *f;
-  struct ligne tab;
-
-/* A REECRIRE A PARTIR D'ICI */
-  entree.nom = (char *)buf; entree.tel = 0;
-  if ((f = fopen (NOM_FICHIER, "r")) == NULL) {perror ("svc: fopen ");}
-  else {
-    while ( fscanf(f,"%s%d", buf, &t ) != EOF ) {
-      if ( !strcmp( *nom, buf) ) {
-	entree.tel = t;
-	fclose ( f );
-	return ( &entree );
-      }
-    }
-    fclose ( f );
-  } /* entry not found: return empty string */
-  entree.nom[0] = '\0';
-  return ( &entree );
 }
 
